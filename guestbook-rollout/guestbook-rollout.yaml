@@ -77,4 +77,4 @@ spec:
                 port:
                   number:
                     80
-                    # Dec 08th 2025 working with nginx ingress controller
+                    # Dec 08th 2025 working with Blue-Green deployment strategy in Argo Rollouts
